@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" style= "background-color:powderblue;">
+    <div className="App">
       <h1>Hello Salman Khan ......</h1>
       <p>Class-02 Asignment Complete And the error which is created again and 
         again was just the problem with permission where i used "Sudo" before 
